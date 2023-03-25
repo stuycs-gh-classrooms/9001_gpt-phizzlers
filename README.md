@@ -1,9 +1,8 @@
 # ChatGPT on Graphics
 
-### Name0: YOUR NAME HERE
-### Name1: TABLE_BUDDY NAME HERE
-### Name2: TABLE_BUDY+ NAME HERE 
-### Name3: TABLE_BUDY+ NAME HERE (if applicable, delete this line if not)
+### Name0: Rafayet Hossain
+### Name1: Olivia Zheng
+### Name2: Josiah Moltz 
 
 ---
 
@@ -33,7 +32,7 @@ You can find ChatGPT here: <https://chat.openai.com/chat>
 ### Your Prompt
 Provide below the first description you gave ChatGPT:
 
-YOUR ANSWER HERE
+"Make a graphics engine in Python that can draw lines and create a .ppm file with the lines."
 
 ### The Code
 Crate a folder in this repository called __0-program__ containing all the relevant code initially created by ChatGPT.
@@ -71,6 +70,13 @@ YOUR ANSWER HERE
 if possible, run the code made by ChatGPT. Based on your answers the questions above, and your observations about how the program runs, ask ChatGPT to improve the code. ChatGPT will generally understand that you are asking to make changes to your inital prompt, so you don't need to restate the enire problem, instead, ask for specific changes or improvements.
 
 Provide each prompt you gave ChatGPT bellow. Give each prompt a header like this :`#### Prompt X` where X is a counter starting at 1.
+
+Prompt 1: Rewrite the code to store an edge matrix of points
+Prompt 2: Add a function to draw a circle in the image.
+Prompt 3: Create an example code for the above code
+Prompt 4: The draw_circle() function causes an IndexError: bytearray index out of range, can you fix it?
+Prompt 5: How can i fix the "bytes" object has no attribute "format" error?
+Prompt 6: (Given full traceback message for bytearray out of range since it still couldn't fix it)
 
 ## Task 3: The Final Program
 Include the final program created by ChatGPT in this repository in a folder called __1-program__.
