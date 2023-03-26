@@ -71,7 +71,7 @@ if possible, run the code made by ChatGPT. Based on your answers the questions a
 
 Provide each prompt you gave ChatGPT bellow. Give each prompt a header like this :`#### Prompt X` where X is a counter starting at 1.
 
-Prompt 1: Rewrite the code to store an edge matrix of points
+Prompt 1. Rewrite the code to store an edge matrix of points
 Prompt 2: Add a function to draw a circle in the image.
 Prompt 3: Create an example code for the above code
 Prompt 4: The draw_circle() function causes an IndexError: bytearray index out of range, can you fix it?
