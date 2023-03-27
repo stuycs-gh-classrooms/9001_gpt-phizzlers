@@ -43,7 +43,7 @@ Answer the Following Questions after seeing the initial program.
 #### Question 0
 Overall, how well did ChatGPT do?
 
-YOUR ANSWER HERE
+ChatGPT did really well at the start (when we only had lines to work with), but as we requested more features it started to give broken code. At some point, when it fixed one problem, another problem occured, so we couldn't get it to fully fix it's own program.
 
 #### Question 1
 What did ChatGPT get right?
