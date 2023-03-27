@@ -63,8 +63,7 @@ YOUR ANSWER HERE
 #### Question 4:
 How does ChatGPT's approach differe from yours?
 
-YOUR ANSWER HERE
-
+ChatGPT does everything on one file using classes, while we used different .py files instead. It also doesn't use as many libraries as ours, with only a math library for circles.
 
 ## Task 2: Refinement
 if possible, run the code made by ChatGPT. Based on your answers the questions above, and your observations about how the program runs, ask ChatGPT to improve the code. ChatGPT will generally understand that you are asking to make changes to your inital prompt, so you don't need to restate the enire problem, instead, ask for specific changes or improvements.
